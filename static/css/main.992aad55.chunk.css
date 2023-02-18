@@ -1,2 +1,36 @@
-.App{align-content:center;justify-content:center}.App,.calc{display:flex}.calc{flex-direction:column}.button{border:1px solid #000;font-size:2em;text-align:center;line-height:200%;flex:1 1;cursor:pointer;background:#bbb}.button:hover{background-color:grey}.row{display:flex;width:400px}input{text-align:center;background:#000;color:orange;height:3em;outline:1px solid #000;font-size:2em}
+.App {
+  align-content: center;
+  justify-content: center;
+}
+.App,
+.calc {
+  display: flex;
+}
+.calc {
+  flex-direction: column;
+}
+.button {
+  border: 1px solid #000;
+  font-size: 2em;
+  text-align: center;
+  line-height: 200%;
+  flex: 1 1;
+  cursor: pointer;
+  background: #bbb;
+}
+.button:hover {
+  background-color: grey;
+}
+.row {
+  display: flex;
+  width: 400px;
+}
+input {
+  text-align: center;
+  background: #000;
+  color: orange;
+  height: 3em;
+  outline: 1px solid #000;
+  font-size: 2em;
+}
 /*# sourceMappingURL=main.992aad55.chunk.css.map */
